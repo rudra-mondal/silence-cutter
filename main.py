@@ -9,7 +9,6 @@ import soundfile as sf
 import threading
 import time  # For simulating loading time and estimating durations
 import os
-import cProfile
 import subprocess
 import tempfile
 
