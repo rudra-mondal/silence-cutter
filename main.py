@@ -15,7 +15,7 @@ import tempfile
 class SilenceCutterApp:
     def __init__(self, root):
         self.root = root
-        root.title("Professional Silence Cutter")
+        root.title("Silence Cutter")
         self.root.minsize(800, 750)  # Increased minimum height to accommodate new progress UI
 
         # --- UI Elements Initialization ---
