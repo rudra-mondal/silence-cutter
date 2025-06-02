@@ -1,7 +1,9 @@
 
 # Silence Cutter
 
-![Screenshot](https://github.com/user-attachments/assets/76d45cc5-603a-43da-9e97-e297273d9293)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/76d45cc5-603a-43da-9e97-e297273d9293" alt="UI Screenshot" width="500">
+</div>
 
 A Python-based desktop application with a Tkinter GUI to automatically detect and remove silent segments from audio and video files. It provides a visual waveform display with highlighted silences and allows users to customize detection parameters.
 
@@ -118,4 +120,4 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
